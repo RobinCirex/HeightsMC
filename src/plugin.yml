@@ -1,0 +1,8 @@
+name: HeightsMC
+version: 1.0
+author: RobinCirex
+main: me.cirex.heightsmc.HeightsMC
+api-version: 1.13
+commands:
+   menu:
+   stats:
